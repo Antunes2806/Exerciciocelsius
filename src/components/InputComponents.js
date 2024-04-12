@@ -1,5 +1,6 @@
 import { TextInput } from "react-native";
 
+//Recebendo components por props
 export default function InputComponents({
   txtplace,
   value,
